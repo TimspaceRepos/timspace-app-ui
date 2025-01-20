@@ -1,4 +1,3 @@
-# Timspace Landing Page
 # Timspace App UI
 This repository contains the code for the user interface of **Timspace**, a platform for managing group activities like sports academies, fitness classes, and more.
 
